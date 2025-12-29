@@ -9,7 +9,6 @@ import {
   Database,
   Cloud,
   Wrench,
-  ChevronDown,
   ExternalLink,
   BookOpen,
   Award,
